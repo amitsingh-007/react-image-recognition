@@ -1,11 +1,8 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import { ImageRecognition } from "./containers/ImageRecognition";
 
 function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+  return <ImageRecognition />;
 }
 
 export default App;
