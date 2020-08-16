@@ -21,7 +21,7 @@ jobs:
         id: deployment
         with:
           token: "${{ github.token }}"
-          target_url: https://amitsingh-007.github.io/stacks-game/
+          target_url: https://amitsingh-007.github.io/react-image-recognition/
           environment: production
 
       - name: Clean install dependencies
