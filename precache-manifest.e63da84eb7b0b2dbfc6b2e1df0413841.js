@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72cdde040cb03c0a4e2a84db51e19fcf",
+    "revision": "df20e97a7de171cb0c0c19ffa1280181",
     "url": "/react-image-recognition/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-image-recognition/static/js/2.a65d6bc8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4af4181593e9cda3580",
-    "url": "/react-image-recognition/static/js/main.9345a6c0.chunk.js"
+    "revision": "f7d5be22f09ea94cc8a2",
+    "url": "/react-image-recognition/static/js/main.a61c3e19.chunk.js"
   },
   {
     "revision": "3a9c864a3cce36a0137d",
